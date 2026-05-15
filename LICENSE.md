@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with custom sushiswap trading bot Module | front-running-detection + multi-chain-support, the #1 sushiswap trading bot. Includes front-running-detection and
 
 
 
